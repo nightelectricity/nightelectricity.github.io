@@ -4,10 +4,8 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: prose and media criticism from s.t. 
+      - title: "find me on <a href='https://timetheft.social/@addedviolence'>mastodon</a>, <a href='https://bsky.app/profile/nightelectricity.com'>bluesky</a> and <a href='https://twitter.com/partialrecon'>twitter</a>"
 
   - title: all posts
     post_list:
@@ -16,23 +14,19 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: essays
     post_list:
-      category: example2
+      category: essays
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
+      show_more_url: essay-archive.html
+  
+  - title: prose
+    post_list:
+      category: prose
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: prose-archive.html
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+ 
