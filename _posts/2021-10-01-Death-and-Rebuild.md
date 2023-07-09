@@ -2,10 +2,10 @@
 layout: post
 slug: death and rebuild
 category: essays
-image: /assets/images/deathandrebuild.png
+image: /assets/images/ghost.png
 description: Life, death, and the many Ends of Evangelion
 ---
-![Death and Rebuild: An Evangelion Retrospective. Life, death, and the many Ends of Evangelion](/assets/images/ghost.png)
+![Death and Rebuild: An Evangelion Retrospective. Life, death, and the many Ends of Evangelion](/assets/images/deathandrebuild.png)
 
 >This essay contains full spoilers for Neon Genesis Evangelion (anime and manga), End of Evangelion, Rebuild of Evangelion and Evangelion: Anima. It also contains frank descriptions of suicide and suicidal ideation.
 
