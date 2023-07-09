@@ -1,6 +1,7 @@
 ---
 layout: post
 slug: death and rebuild
+title: Death and Rebuild: An Evangelion Retrospective
 category: essays
 image: /assets/images/ghost.png
 description: Life, death, and the many Ends of Evangelion
