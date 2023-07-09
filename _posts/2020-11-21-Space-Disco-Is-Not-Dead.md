@@ -2,6 +2,7 @@
 layout: post
 slug: space disco is not dead
 category: essays
+image: /assets/images/cosmicglow.png
 ---
 What do you think of when you think of Gundam? Even if you’re not a fan, even if you haven’t seen a single episode, hell, even if you don’t like anime, it’s likely that you’ve at least heard of it. It’s an absolute juggernaut of a franchise, an empire including anime series, movies, manga, light novels, videogames, OVAs, plastic model kits (Gunpla) and even more than one life-size statue. Giant robots of all kinds are misnamed “gundams”, endless articles call it the “Japanese Star Wars”, and the venerable RX-78-2 was given the dubious honour of prime placement in the final battle of Ready Player One. But that’s Gundam, the franchise. What of Mobile Suit Gundam, the late seventies sci-fi anime, cancelled before its time?
 

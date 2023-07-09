@@ -2,6 +2,7 @@
 layout: post
 slug: there is no escape 
 category: essays
+image: /assets/images/hades.png
 ---
 
 

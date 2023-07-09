@@ -5,7 +5,6 @@ url: https://nightelectricity.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Prose and essays from perennial horror disaster, S.T.
-
 permalink: /:slug.html
 twitter:
   username: partialrecon

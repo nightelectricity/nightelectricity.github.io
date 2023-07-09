@@ -2,6 +2,8 @@
 layout: post
 slug: knightmares 
 category: prose
+image: /assets/images/metatron.png
+description: Six stories of knights having bad times 
 ---
 # FIRE
 
