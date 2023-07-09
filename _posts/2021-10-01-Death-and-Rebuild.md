@@ -3,6 +3,7 @@ layout: post
 slug: death and rebuild
 category: essays
 image: /assets/images/deathandrebuild.png
+description: Life, death, and the many Ends of Evangelion
 ---
 ![Death and Rebuild: An Evangelion Retrospective. Life, death, and the many Ends of Evangelion](/assets/images/deathandrebuild.png)
 
