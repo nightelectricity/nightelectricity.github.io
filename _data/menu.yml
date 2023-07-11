@@ -17,6 +17,7 @@ entries:
   - title: essays
     post_list:
       category: essays
+      limit: 5
       show_more: true
       show_more_text: See more posts...
       show_more_url: essay-archive.html
@@ -24,6 +25,7 @@ entries:
   - title: prose
     post_list:
       category: prose
+      limit: 5
       show_more: true
       show_more_text: See more posts...
       show_more_url: prose-archive.html
