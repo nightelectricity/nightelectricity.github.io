@@ -4,6 +4,7 @@ slug: out of touch out of time
 title: OUT OF TOUCH/OUT OF TIME
 category: essays
 image: /assets/images/thursday.png
+description: Lucky Star, Haruhi and oblivion.
 ---
 >This article contains references to lolicon, severe mental illness and the KyotoAnimation arson attack
 
