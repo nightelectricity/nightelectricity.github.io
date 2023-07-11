@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postnotitle
 slug: knightmares 
 category: prose
 image: /assets/images/metatron.png
