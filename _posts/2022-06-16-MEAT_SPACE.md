@@ -197,14 +197,14 @@ downloaded this in a virtual machine but it's too late for that.
 
 a veritable treasure trove of horseshit. wonderful. years of digital hoarding have taught me to never bother with the readme, usually only containing a cringeworthy warez team name and links to viruses. something about this one, though...
 
-<p class="center">33333333333333333333333333333333333333333</p>
+<p class="center">333333333333333333333333333333333</p>
 
 <p class="green">WARNING- IF YOU ARE NOT WILLING TO TRAVEL THE REALM OF THE SENSES, TO ENGAGE WITH "TOTAL POSSIBILITIES"- TURN BACK AT ONCE. THIS IS NOT A PLACE FOR YOU, FOR THE PEOPLE OF MEATSPACE, SLAVES OF THE OLD! YOUR KIND IS NOT WELCOME IN OUR NEW WORLD, YOU MAY TOIL IN THE OLD, CONTEND WITH YOUR OWN PETTY TYRANNY.</p>
 
 <p class="green">TO ALL OTHERS- GREETINGS, NEURONAUTS! CONTAINED IN HERE ARE THE TOOLS TO OVERWRITE YOUR PROGRAMMING, TO EVOLVE BEYOND FLESH AND BLOOD. OUR REVOLUTION IS NOT JUST ONE OF CHIPS AND WIRES, BUT MAGICK AND PSYCHEDELIA. WE CANNOT RELY ON THE WORLD OUTSIDE TO CHANGE- WE MUST CHANGE OUR PERCEPTION, AND OPEN OUR EYES NOT ONLY TO THE NEW BUT TO THE FORGOTTEN.</p>
 <p class="green">BROTHERS AND SISTERS- WELCOME TO THE OVERLOAD</p>
 
-<p class="center">33333333333333333333333333333333333333333</p>
+<p class="center">333333333333333333333333333333333</p>
 
 how old is this? i feel like i should be reading this on an Apple II, basking in the green and black glow of 80s tech utopianism. me and mu had nabbed our screennames from an old issue of Mondo 2000, a monolith to the wide-eyed hope of the internet. now it was just kinda sad, only to be pilfered from for ironic sake. in the year 20XX i have my internet self, but only if i play by the rules of the game. elliedee has raven black hair and round john lennon type glasses. her eyes don't have bags but are deep pools to lose yourself in. the shape of her body changes in each imagining, her face only rendered static by a profile picture. she's weird, yes, but not broken, not full of neurotic shards that cut deeper the more you try to hold yourself together.
 i trawl through the night, passed leary's bizarre computer sex magic and amateurish binaural digital drugs from some ancient DAW. there it was. a batch file with two notepad documents. not the oldest file of the bunch but the only ones that seemed handmade.
