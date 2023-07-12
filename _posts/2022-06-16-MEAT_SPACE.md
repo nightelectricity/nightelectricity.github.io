@@ -239,7 +239,9 @@ a ping from mIRC interrupts my double click
 
 <span class="green">elliedee></span> sameeee
 
-<span class="green">elliedee></span> thinkin bout syzygy (*´∀｀).。o○
+<span class="green">elliedee></span> thinkin bout syzygy 
+<p>(*´∀｀).。o○ 
+</p>
 
 <span class="green">queenmu></span> ??
 
