@@ -3,6 +3,7 @@ layout: postnotitle
 slug: faith in persona
 title: FAITH IN PERSONA
 category: prose
+description: Excuse me, who are you?
 image: /assets/images/mindmirror.png
 ---
 <p style="font-family:'Helvetica'">
