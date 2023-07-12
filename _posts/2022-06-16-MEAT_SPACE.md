@@ -2,6 +2,7 @@
 layout: post
 slug: meat space
 title: MEAT_SPACE
+description: WELCOME TO THE OVERLOAD 
 category: prose
 image: /assets/images/meat.png
 ---
