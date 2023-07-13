@@ -1,4 +1,4 @@
 ---
 layout: home
-image: /assets/image/nigthtelectricity.png
+image: /assets/image/nightelectricity.png
 ---
