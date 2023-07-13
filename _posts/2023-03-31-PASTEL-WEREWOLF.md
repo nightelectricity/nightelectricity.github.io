@@ -30,7 +30,7 @@ description: You want something done to you
 
 .big {
   text-align: center;
-  font-size: 50px;
+  font-size: 40px;
 }
 .small {
   text-align: center;
