@@ -1,4 +1,4 @@
 ---
 layout: home
-image: /assets/images/ne.png
+image: /assets/images/ne.heif
 ---
