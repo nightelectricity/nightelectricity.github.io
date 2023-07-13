@@ -13,7 +13,7 @@ image: /assets/images/boards.jpg
 
 Or why it took so long to break the habit, even as it got worse and worse.
 
-![It only gets worse.](/assets/images/howbad.png)
+![It only gets worse.](/assets/images/how bad.png)
 
 If any of that sounds like your experience with Twitter, Tumblr, Reddit etc., then yes, that is what my headline was getting at. 4chan is worse, but it isn’t hard to find racism, bigotry and pointless vitriol on any website. They generally give you better ways to avoid that content, but even 4chan allows you to “filter” out certain words and phrases. Twitter, in particular, has a similar self-hating aspect, the “hell site” that we “doom scroll”. But I’m more interested in the reverse phenomenon- why does a website that lacks traditional user profiles, omnipresent apps and unknowable algorithms feel so similar to these social media monoliths?
 

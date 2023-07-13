@@ -5,32 +5,24 @@ entries:
   - title: info
     entries:
       - title: prose and media criticism from s.t. 
-      - title: "find me on <a href='https://timetheft.social/@addedviolence'>mastodon</a>, <a href='https://bsky.app/profile/nightelectricity.com'>bluesky</a> and <a href='https://twitter.com/partialrecon'>twitter</a>"
-      - title: receive new broadcasts via rss
-        url: feed.xml
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
+      - title: find me in <a href='https://apocalypse-confidential.com/2022/08/19/fin-dom/'>APOCALYPSE CONFIDENTIAL</a> and <a href='https://townmice.itch.io/very-online'>VERY ONLINE</a>
+      - title: <a href='https://twitter.com/partialrecon'>twitter</a> / <a href='https://timetheft.social/@addedviolence'>mastodon</a> / <a href='https://bsky.app/profile/nightelectricity.com'>bluesky</a> 
   - title: essays
     post_list:
       category: essays
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See more posts...
       show_more_url: essay-archive.html
   
   - title: prose
-    entries:
-    - title: you can also find me in <a href='https://apocalypse-confidential.com/2022/08/19/fin-dom/'>APOCALYPSE CONFIDENTIAL</a> and <a href='https://townmice.itch.io/very-online'>VERY ONLINE</a>
     post_list:
       category: prose
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See more posts...
       show_more_url: prose-archive.html
-  
+      
+  - title: rss
+    url: feed.xml
  
