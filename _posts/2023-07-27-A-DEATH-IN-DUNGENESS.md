@@ -26,7 +26,7 @@ I had to visit. When I shared them online, I found my friend was already interes
 
 They wanted to visit Prospect Cottage.
 
-I’m not going to get too much into the biography of Derek Jarman. There’s no amount of words I could write about the late great queer artist, filmmaker, costume designer, stage designer, writer, gardener and gay rights activist that would not feel inconclusive and reductive. Taken from us far too soon at the age of 52, he was a legend that would have despised such a title.  And towards the end of his life, he lived in Dungeness, in Prospect Cottage. 
+I’m not going to get too much into the biography of Derek Jarman. There’s no amount of words I could write about the late great queer artist, filmmaker, costume designer, stage designer, writer, gardener and gay rights activist that would not feel inconclusive and reductive. Taken from us far too soon at the age of 52, he is one of the few people I consider to be a legend.  And towards the end of his life, he lived in Dungeness, in Prospect Cottage. 
 
 It is a beautiful place. I can understand why he bought it so suddenly, seeing it with a For Sale sign on a trip with Tilda Swinton must have felt like serendipity. As he describes it:
 
