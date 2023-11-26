@@ -1,7 +1,7 @@
 ---
 layout: postnotitle
-slug: young fresh meat uncut
-title: YOUNG FRESH MEAT- A Chinese Slasher Story
+slug: young fresh meat 
+title: YOUNG FRESH MEAT
 category: prose
 image: /assets/images/yfm2.png
 description: Order up. You're on the menu.
