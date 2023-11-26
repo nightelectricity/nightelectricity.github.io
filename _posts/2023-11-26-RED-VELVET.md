@@ -4,7 +4,7 @@ slug: red velvet
 title: RED VELVET
 category: prose
 image: /assets/images/redvelvet.jpg
-description: I do not think I am a good person because good people don’t think these things and don’t end up in these situations.
+description: good people don't end up in these situations
 ---
 <style>
 .credb {
