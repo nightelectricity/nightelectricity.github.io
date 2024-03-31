@@ -5,7 +5,15 @@ title: ex_persona
 description: but the machine does not stop
 category: prose
 image: /assets/images/117.JPG
+
 ---
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="nightelectricity.com">
+<meta property="twitter:url" content="https://nightelectricity.com/ex-persona.html">
+<meta name="twitter:title" content="ex_persona">
+<meta name="twitter:description" content="but the machine does not stop">
+<meta name="twitter:image" content="https://nightelectricity.github.io/assets/images/117twitter.JPG">
 <style>
 .center {
   text-align: center;
