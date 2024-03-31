@@ -653,4 +653,4 @@ she is different. she is better in her ordinariness than i could have possibly i
 
 i hold her. she shakes in my arms.
 
-“Hello, Ellie.”
+“[Hello, Ellie.](ex-persona.html)”
