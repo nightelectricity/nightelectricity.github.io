@@ -60,7 +60,7 @@ if ( url.includes("posts/") ) {
 }
 
 //Generate the Header HTML, a series of list items containing links.
-let headerHTML = '<ul> <li><a href="' + relativePath + '/crt">Home</a></li>' + 
+let headerHTML = '<ul> <li><a href="' + relativePath + '/">Home</a></li>' + 
 '<li><a href="' + relativePath + '/archive.html">Archive</a></li>' +
 '<li><a href="' + relativePath + '/about.html">About</a></li> </ul>';
 
