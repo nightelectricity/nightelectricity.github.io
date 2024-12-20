@@ -61,11 +61,11 @@ if ( url.includes("posts/") ) {
 //Generate the Header HTML, a series of list items containing links.
 let headerHTML = '<ul> <li><a href="' + relativePath + '/">Home</a></li>' + 
 '<li><a href="' + relativePath + '/archive">Archive</a></li>' + '<li><a href="https://cathoderaytubetop.atabook.org/">Guestbook</a></li>' +
-'<li><a href="' + relativePath + '/about">About</a></li> </ul>';
+'<li><a href="' + relativePath + '/about">About</a></li>' + '<li><a href="' + relativePath + '/link">Link to Us</a></li></ul>';
 
 //Generate the Footer HTML, which uses the variables defined in the BASIC INFO section above to list info about the site.
 //Note: feel free to remove the references to Zonelets and Neocities! Just be careful not to delete any necessary HTML closing tags or other syntax.
-let footerHTML = "<hr><p>" + blogName + " is written by <a href='" + authorLink + "'>" + authorName + "</a> and built with <a href='https://zonelets.net/'>Zonelets!</a></p><a href='https://alyx.sh/posts/hrt-geocities-buttons/'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/ebutton.gif'><a href='https://notepad-plus-plus.org/'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/notepad.GIF'></a><a href='https://otakuworld.com/'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/owbutton.gif'></a><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/cybergirls.gif'><p><a href='https://nightelectricity.com/crt/link'></a>Link to my site!<a href='https://nightelectricity.com/crt/'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/crtbutton.png'></a></p>";
+let footerHTML = "<hr><p>" + blogName + " is written by <a href='" + authorLink + "'>" + authorName + "</a> and built with <a href='https://zonelets.net/'>Zonelets!</a></p><a href='https://alyx.sh/posts/hrt-geocities-buttons/'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/ebutton.gif'><a href='https://notepad-plus-plus.org/'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/notepad.GIF'></a><a href='https://otakuworld.com/'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/owbutton.gif'></a><a href='https://bsky.app/profile/nightelectricity.com'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/cybergirls.gif'><a href='https://nightelectricity.com/crt/link.html'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/crtbutton.png'></a>";
 
 //To do the following stuff, we want to know where we are in the posts array (if we're currently on a post page).
 let currentIndex = -1;
