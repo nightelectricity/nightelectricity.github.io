@@ -4,7 +4,7 @@
 
 body {
   background-color: #436a7b;
-  background-image: url('../images/bg_diamond.png');
+  background-image: url('../images/bg.jpg');
 	background-position: top;
   font-size: 18px;
   font-family: Georgia, "Times New Roman", serif;
@@ -58,7 +58,15 @@ a:hover {
 
 h1, h2, h3, h4, h5 {
   font-family: Tahoma, Geneva, sans-serif;
-  color: #34436f;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: black;
+  text-shadow:
+       2px 2px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+  color: #c034eb;
 }
 
 /*#CONTAINER is the rectangle that contains everything but the background!*/
@@ -68,7 +76,7 @@ h1, h2, h3, h4, h5 {
 	max-width: 700px;
 	background-color: #f1e3c9;
   color: #151515; 
-  outline-color: #a9a9a9;
+  outline-color: #237021;
   outline-style: ridge;
   outline-width: 4px;
   outline-offset: 0;
@@ -81,9 +89,10 @@ h1, h2, h3, h4, h5 {
 
 /*HEADER STYLE*/
 #header {
-  background-color: #384879;
+  background: rgb(71,115,71);
+  background: linear-gradient(270deg, rgba(71,115,71,1) 0%, rgba(94,214,73,1) 100%); 
   padding: 0 5%;
-  border-color: #a9a9a9;
+  border-color: #237021;
   border-style: ridge;
   border-width: 0 0 4px 0;
 }
@@ -100,7 +109,9 @@ h1, h2, h3, h4, h5 {
   margin-top: 0.2em;
 }
 #header li a {
-  color: white;
+  color: #c034eb;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: black;
   text-decoration: none;
   background-color: inherit;
 }
