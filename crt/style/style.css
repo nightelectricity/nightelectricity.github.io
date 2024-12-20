@@ -7,7 +7,9 @@
 body {
   background-color: #436a7b;
   background-image: url('../images/bg.jpg');
-	background-position: top;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   font-size: 18px;
   font-family: Georgia, "Times New Roman", serif;
   margin: 0;
