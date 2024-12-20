@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5 {
 	left: 0px;
 	top: 0px;
 	/*the scanline png*/
-	 background-image:url('../crt/images/bg_crt.png');
+	 background-image:url('https://nightelectricity.com/crt/images/bg_crt.png');
 	 background-repeat: repeat;
 	 z-index:100;
 	 content: "";
