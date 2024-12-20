@@ -40,6 +40,20 @@ img {
   margin-left: auto;
   text-align: center;
 }
+.fucky {
+	font-size: 30px;
+	text-shadow: -10px -10px #9234eb;
+	color: #c034eb;
+}
+.fuckier {
+	font-size: 30px;
+	text-shadow: 10px 10px #9234eb;
+	color: #c034eb;
+	float: right;
+	margin-left: 1em;
+}
+
+
 @media only screen and (min-width: 600px) {
   .small {
     max-width: 60%;

@@ -66,7 +66,7 @@ let headerHTML = '<ul> <li><a href="' + relativePath + '/">Home</a></li>' +
 
 //Generate the Footer HTML, which uses the variables defined in the BASIC INFO section above to list info about the site.
 //Note: feel free to remove the references to Zonelets and Neocities! Just be careful not to delete any necessary HTML closing tags or other syntax.
-let footerHTML = "<hr><p>" + blogName + " is written by <a href='" + authorLink + "'>" + authorName + "</a>, built with <a href='https://zonelets.net/'>Zonelets</a>, and hosted by <a href='https://neocities.org/'>Neocities!</a></p><a href='https://alyx.sh/posts/hrt-geocities-buttons/'><img border=0 width=88 height=31 src='./images/ebutton.gif' alt='powered by estrogen'</><a href='https://otakuworld.com/'><img border=0 width=88 height=31 src='./images/owbutton.gif'></a>";
+let footerHTML = "<hr><p>" + blogName + " is written by <a href='" + authorLink + "'>" + authorName + "</a> and built with <a href='https://zonelets.net/'>Zonelets!</a></p><a href='https://alyx.sh/posts/hrt-geocities-buttons/'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/ebutton.gif' alt='powered by estrogen'</><a href='https://otakuworld.com/'><img border=0 width=88 height=31 src='https://nightelectricity.com/crt/images/owbutton.gif'></a>";
 
 //To do the following stuff, we want to know where we are in the posts array (if we're currently on a post page).
 let currentIndex = -1;
