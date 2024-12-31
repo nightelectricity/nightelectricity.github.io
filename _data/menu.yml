@@ -17,7 +17,7 @@ entries:
       show_more_text: See more posts...
       show_more_url: essay-archive.html
   
-  - title: prose
+  - title: prose and poetry
     post_list:
       category: prose
       limit: 3
